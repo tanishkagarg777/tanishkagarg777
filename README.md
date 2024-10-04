@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Tanishka Garg</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
@@ -36,3 +37,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishkagarg777&show_icons=true&locale=en" alt="tanishkagarg777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkagarg777&" alt="tanishkagarg777" /></p>
+-->
+
+### Hi there 👋, my name is Tanishka Garg
+#### I am a Software Engineering Student.
+Third year software engineering student, finding coding fun and interesting looking for an internship opportunity.
+
+Skills: MERN Stack / JS / HTML / CSS / C++ / 
+
+- 💬 Ask me about MERN Stack Development 
+- 📫 How to reach me: tanishkagarg613@gmail.com 
+- 😄 Pronouns: Her/She 
+- ⚡ Fun fact: I love to cook. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishkagarg777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishka-garg613/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](tanishka_garg_)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagarg777)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanishkagarg777&show_icons=true&locale=en" alt="tanishkagarg777" /></p>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishkagarg777)  
+
