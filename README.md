@@ -1,13 +1,16 @@
-<!--
 <h1 align="center">Hi 👋, I'm Tanishka Garg</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
 <img align="right" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" alt="coding" width="300px" height="240px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishkagarg777&label=Profile%20views&color=0e75b6&style=flat" alt="tanishkagarg777" /> </p>
 
+- 💬 Ask me about **MERN Stack Development**
+
 - 📫 How to reach me **tanishkagarg613@gmail.com**
 
-- ⚡ Fun fact **I am friendly.**
+- ⚡ Fun fact **I love to cook.**
+
+- 😄 Pronouns **Her/She**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,30 +35,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkagarg777&show_icons=true&locale=en&layout=compact" alt="tanishkagarg777" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishkagarg777" alt="tanishkagarg777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishkagarg777&show_icons=true&locale=en" alt="tanishkagarg777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkagarg777&" alt="tanishkagarg777" /></p>
--->
-
-### Hi there 👋, my name is Tanishka Garg
-#### I am a Software Engineering Student.
-Third year software engineering student, finding coding fun and interesting looking for an internship opportunity.
-
-Skills: MERN Stack / JS / HTML / CSS / C++ / 
-
-- 💬 Ask me about MERN Stack Development 
-- 📫 How to reach me: tanishkagarg613@gmail.com 
-- 😄 Pronouns: Her/She 
-- ⚡ Fun fact: I love to cook. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishkagarg777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishka-garg613/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](tanishka_garg_)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagarg777)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanishkagarg777&show_icons=true&locale=en" alt="tanishkagarg777" /></p>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tanishkagarg777)  
-
